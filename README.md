@@ -1,5 +1,5 @@
 # Bitcoin Project
-The project was undertaken as part of the Advanced Data Analysis 23/24 course in collaboration with a colleague. The objective was to analyze the Bitcoin dataset by creating a classifier model with KNN and implementing a clustering process with K-mean.
+The project was undertaken as part of the Advanced Data Analysis 23/24 course in collaboration with a colleague. The objective was to analyze the Bitcoin dataset by creating a classifier model with KNN and implementing a clustering process with K-means.
 
 For this project, a blockchain can be seen as a list of blocks, and each block has a list of transactions.
 
